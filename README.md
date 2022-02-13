@@ -1,2 +1,4 @@
 # etcd-operator
-kubernetes dev course operator project demo
+第一期：三个阶段开发
+第一阶段：etcd集群开发(完成)； 第二阶段：etcd数据备份开发(完成)； 第三阶段：etcd数据还原开发(待开发)。
+
